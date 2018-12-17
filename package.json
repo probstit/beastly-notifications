@@ -1,0 +1,22 @@
+{
+  "name": "beastly-notifications",
+  "version": "1.0.0",
+  "description": "Beastly Notification Management code",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/probstit/beastly-notifications.git"
+  },
+  "keywords": [
+    "beastly"
+  ],
+  "author": "PRO BST IT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/probstit/beastly-notifications/issues"
+  },
+  "homepage": "https://github.com/probstit/beastly-notifications#readme"
+}
